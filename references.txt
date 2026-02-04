@@ -1,0 +1,4 @@
+https://owasp.org
+https://www.phishing.org
+https://www.kaspersky.com/resource-center/threats/phishing
+https://www.cisa.gov/phishing
